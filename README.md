@@ -128,7 +128,9 @@ Une faille critique a été identifiée : l'utilisateur peut changer de compte e
 5. **Pentest Complet du Site** :
    - Effectuer un test de pénétration complet du site pour identifier et corriger d'autres éventuelles failles de sécurité.
 
-# Profil de Lucie Cielu
+# PERSONNA
+
+## Profil de Lucie Cielu
 
 **Prénom :** Lucie  
 **Nom :** Cielu  
@@ -143,13 +145,13 @@ Une faille critique a été identifiée : l'utilisateur peut changer de compte e
 **Niveau sportif :** Pratiquante confirmée  
 **Sport pratiqué :** M.M.A  
 
-## PROFIL
+### PROFIL
 Lucie vise à perfectionner son art martial en élargissant son cercle d'entraînement et en échangeant avec des partenaires de différents niveaux de compétence.
 
-## OBJECTIF
+### OBJECTIF
 Grâce à Sparfind, je vais pouvoir renforcer mes compétences en m'entraînant avec des athlètes variés, mais aussi jouer un rôle de mentor pour les débutants, en les guidant dans leur progression.
 
-# Profil de Damien Miendu
+## Profil de Damien Miendu
 
 **Prénom :** Damien  
 **Nom :** Miendu  
@@ -164,9 +166,9 @@ Profession : Graphiste
 Niveau sportif : Débutant
 Sports pratiqués : Boxe, kickboxing
 
-## PROFIL
+### PROFIL
 L'objectif de Damien est d'améliorer son endurance et de perfectionner sa technique en boxe et en kickboxing.
 En tant que débutant, il cherche à progresser rapidement en s'entraînant avec des partenaires adaptés et motivés.
 
-## OBJECTIF
+### OBJECTIF
 Grâce à Sparfind, je vais pouvoir trouver des partenaires, tout en me permettant de bénéficier de conseils et de soutien pour atteindre mes objectifs sportifs.

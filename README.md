@@ -1,8 +1,9 @@
 # Sparfind.v1
 Projet Annuel ESGI 1
 
-#https://sparfind.com
-#https://51.222.13.147/ (si problème de DNS)
+https://sparfind.com
+
+https://51.222.13.147/ (si problème de DNS)
 
 ## L’union fait la force
 

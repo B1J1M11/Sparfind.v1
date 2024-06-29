@@ -127,28 +127,6 @@ Une faille critique a été identifiée : l'utilisateur peut changer de compte e
 
 5. **Pentest Complet du Site** :
    - Effectuer un test de pénétration complet du site pour identifier et corriger d'autres éventuelles failles de sécurité.
-  
-
-# Profil de Lucie Cielu
-
-**Prénom :** Lucie  
-**Nom :** Cielu  
-**Âge :** 35 ans  
-**Code Postal :** 13090  
-**Ville :** Aix-En-Provence  
-**Adresse :** Rue du général Carrefour  
-**E-Mail :** lucie@gmail.com  
-**Mot de passe :** PASSWORD 
-
-**Profession :** Ingénieur en informatique  
-**Niveau sportif :** Pratiquante confirmée  
-**Sport pratiqué :** M.M.A  
-
-## PROFIL
-Lucie vise à perfectionner son art martial en élargissant son cercle d'entraînement et en échangeant avec des partenaires de différents niveaux de compétence.
-
-## OBJECTIF
-Grâce à Sparfind, je vais pouvoir renforcer mes compétences en m'entraînant avec des athlètes variés, mais aussi jouer un rôle de mentor pour les débutants, en les guidant dans leur progression.
 
 # Profil de Lucie Cielu
 

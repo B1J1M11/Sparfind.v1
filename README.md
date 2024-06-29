@@ -171,7 +171,7 @@ Lucie vise à perfectionner son art martial en élargissant son cercle d'entraî
 ## OBJECTIF
 Grâce à Sparfind, je vais pouvoir renforcer mes compétences en m'entraînant avec des athlètes variés, mais aussi jouer un rôle de mentor pour les débutants, en les guidant dans leur progression.
 
-# Profil de Lucie Damien
+# Profil de Damien Miendu
 
 **Prénom :** Damien  
 **Nom :** Miendu  

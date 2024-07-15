@@ -8,7 +8,7 @@ function ConnexionBD()
 {
     if (session_status() == PHP_SESSION_NONE) session_start();
     try {
-        $mysqlClient = new PDO('mysql:host=localhost;dbname=sparfind;charset=utf8', 'IDENTIFIANT', 'PASSWORD');
+        $mysqlClient = new PDO('mysql:host=localhost;dbname=sparfind;charset=utf8', 'root', '');
         $mysqlClient->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
         return $mysqlClient;
